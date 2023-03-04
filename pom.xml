@@ -5,7 +5,7 @@
   <artifactId>edgepos-model</artifactId>
   <packaging>jar</packaging>
   <version>1.0.0-SNAPSHOT</version>
-  <name>edge-model</name>
+  <name>edgepos-model</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
